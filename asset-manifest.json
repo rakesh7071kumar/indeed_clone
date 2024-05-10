@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/indeed_clone/static/css/main.e6c13ad2.css",
+    "main.js": "/indeed_clone/static/js/main.8dae1365.js",
+    "static/js/453.258b012d.chunk.js": "/indeed_clone/static/js/453.258b012d.chunk.js",
+    "index.html": "/indeed_clone/index.html",
+    "main.e6c13ad2.css.map": "/indeed_clone/static/css/main.e6c13ad2.css.map",
+    "main.8dae1365.js.map": "/indeed_clone/static/js/main.8dae1365.js.map",
+    "453.258b012d.chunk.js.map": "/indeed_clone/static/js/453.258b012d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.8dae1365.js"
+  ]
+}
