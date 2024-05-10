@@ -1,0 +1,4 @@
+com\IndeedBackend\IndeedApplication\IndeedApplication.class
+com\IndeedBackend\IndeedApplication\Entity\SaveJob.class
+com\IndeedBackend\IndeedApplication\Model\ResponseBean.class
+com\IndeedBackend\IndeedApplication\Repository\MongoRepository.class
